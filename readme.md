@@ -11,6 +11,12 @@
 
 >[Pointers](https://github.com/vindecodex/golang/blob/master/pointers/main.go)
 
+***
+
+>[Encapsulation](https://github.com/vindecodex/golang/blob/master/encapsulation/main.go)
+
+***
+
 #### TODO
 > two main package
 
