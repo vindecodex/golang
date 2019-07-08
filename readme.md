@@ -23,6 +23,8 @@
 
 >[Functions Returns](https://github.com/vindecodex/golang/blob/master/functions_returns/main.go)
 
+>[Arrays](https://github.com/vindecodex/golang/blob/master/array/main.go)
+
 ***
 
 #### TODO
