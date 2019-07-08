@@ -21,6 +21,8 @@
 
 >[Attach Method in Struct](https://github.com/vindecodex/golang/blob/master/attach_methods_in_struct/main.go)
 
+>[Functions Returns](https://github.com/vindecodex/golang/blob/master/functions_returns/main.go)
+
 ***
 
 #### TODO
