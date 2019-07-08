@@ -21,8 +21,6 @@
 
 #### TODO
 
-> two main package
-
 > struct with pointers
 
 > attach methods in struct
