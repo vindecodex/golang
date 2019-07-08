@@ -25,6 +25,8 @@
 
 >[Arrays](https://github.com/vindecodex/golang/blob/master/array/main.go)
 
+>[Maps](https://github.com/vindecodex/golang/blob/master/maps/main.go)
+
 ***
 
 #### TODO
