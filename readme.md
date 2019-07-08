@@ -1,7 +1,7 @@
 ## Golang Notes
 
 #### Table of Contents
-> [Variables and Declarations](https://github.com/vindecodex/golang/blob/master/variables_and_declarations/main.go)
+>[Variables and Declarations](https://github.com/vindecodex/golang/blob/master/variables_and_declarations/main.go)
 
 >[Data Types](https://github.com/vindecodex/golang/blob/master/data_types/main.go)
 
@@ -11,9 +11,11 @@
 
 >[Pointers](https://github.com/vindecodex/golang/blob/master/pointers/main.go)
 
-***
+>[Pass By Reference](https://github.com/vindecodex/golang/blob/master/passbyreference/main.go)
 
 >[Encapsulation](https://github.com/vindecodex/golang/blob/master/encapsulation/main.go)
+
+>[Return a Function](https://github.com/vindecodex/golang/blob/master/return_a_function/main.go)
 
 ***
 
@@ -31,15 +33,13 @@
 
 #### ISSUE
 
-> 
+> None
 
 ***
 
 #### NEWLY ADDED
 
-> return_a_function
-
-> passbyreference
+> None
 
 ***
 
