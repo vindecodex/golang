@@ -17,11 +17,11 @@
 
 >[Return a Function](https://github.com/vindecodex/golang/blob/master/return_a_function/main.go)
 
+>[Struct with Pointers](https://github.com/vindecodex/golang/blob/master/struct_with_pointers/main.go)
+
 ***
 
 #### TODO
-
-> struct with pointers
 
 > attach methods in struct
 
