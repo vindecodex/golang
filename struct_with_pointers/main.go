@@ -4,6 +4,8 @@ import "fmt"
 
 type val int
 
+// Using a struct with pointers are something like making a storage of that type
+
 func increase(num *val) {
 	*num = *num + 10
 }
