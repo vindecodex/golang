@@ -19,13 +19,13 @@
 
 >[Struct with Pointers](https://github.com/vindecodex/golang/blob/master/struct_with_pointers/main.go)
 
+>[Attach Method in Struct](https://github.com/vindecodex/golang/blob/master/attach_methods_in_struct/main.go)
+
 ***
 
 #### TODO
 
-> attach methods in struct
-
-> attach methods in struct with pointers
+> None
 
 ***
 
