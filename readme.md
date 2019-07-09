@@ -27,6 +27,8 @@
 
 >[Maps](https://github.com/vindecodex/golang/blob/master/maps/main.go)
 
+>[Interface](https://github.com/vindecodex/golang/blob/master/interface/main.go)
+
 ***
 
 #### TODO
