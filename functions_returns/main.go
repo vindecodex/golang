@@ -17,7 +17,11 @@ func b() (name string, age int) {
 	return
 }
 
+//one line function if not too many body
+func c() string { return "One line function" }
+
 func main() {
 	fmt.Println(a())
 	fmt.Println(b())
+	fmt.Println(c())
 }
