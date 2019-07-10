@@ -17,4 +17,10 @@ func main() {
 
 	*copyOriginal3++
 	fmt.Println(original)
+
+	/* Creating a variable that is an address already using new(T) */
+	number := new(int)   //this is an address of int
+	*number = 100        //passing a value
+	fmt.Println(*number) //printing the value
+	fmt.Println(number)  //printing the address
 }
