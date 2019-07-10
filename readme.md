@@ -29,6 +29,8 @@
 
 >[Interface](https://github.com/vindecodex/golang/blob/master/interface/main.go)
 
+>[Pointers01](https://github.com/vindecodex/golang/blob/master/pointers01/main.go)
+
 ***
 
 #### TODO
