@@ -33,6 +33,8 @@
 
 >[Recursion](https://github.com/vindecodex/golang/blob/master/recursion/main.go)
 
+>[Variadic](https://github.com/vindecodex/golang/blob/master/variadic/main.go)
+
 ***
 
 #### TODO
