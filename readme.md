@@ -35,6 +35,8 @@
 
 >[Variadic](https://github.com/vindecodex/golang/blob/master/variadic/main.go)
 
+>[Error Handling](https://github.com/vindecodex/golang/blob/master/error_handling/main.go)
+
 ***
 
 #### TODO
