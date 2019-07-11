@@ -37,6 +37,8 @@
 
 >[Error Handling](https://github.com/vindecodex/golang/blob/master/error_handling/main.go)
 
+>[Concurrency Go Routines](https://github.com/vindecodex/golang/blob/master/concurrency_go_routines/main.go)
+
 ***
 
 #### TODO
