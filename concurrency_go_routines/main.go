@@ -27,3 +27,6 @@ func main() {
 }
 
 // Remove the go before invocation of a() to see the difference :)
+/*
+It is fine to create a lot of go routines because it is a lite weight and wont harm you program :)
+*/
