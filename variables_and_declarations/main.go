@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 func des(dez ...interface{}) {}
 
 func main() {
@@ -26,4 +28,23 @@ func main() {
 	// dont mind this line, i just add it so that no errors will happen
 	// because golang will get an error if declaring a variable without using it
 	des(a, b, c, d, e, f, g, h, i, j, k, l)
+
+	/* Declaring nil array, slice and maps */
+
+	// var arr [5]int
+	// if arr == nil {
+	// 	fmt.Println("arr is nil")
+	// }
+	/* this array will not be a nil because array accepts length, by adding
+	length indexes will be fill out by 0 or blank strings depends on type we use */
+
+	var slice []int
+	if slice == nil {
+		fmt.Println("slice is nil")
+	}
+
+	var mp map[string]int
+	if mp == nil {
+		fmt.Println("map is nil")
+	}
 }
