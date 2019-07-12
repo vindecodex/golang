@@ -47,4 +47,11 @@ func main() {
 	if mp == nil {
 		fmt.Println("map is nil")
 	}
+
+	mp = map[string]int{
+		"1": 1,
+		"2": 2,
+	}
+
+	fmt.Println(mp)
 }
