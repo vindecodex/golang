@@ -39,6 +39,8 @@
 
 >[Concurrency Go Routines](https://github.com/vindecodex/golang/blob/master/concurrency_go_routines/main.go)
 
+>[Type Conversion](https://github.com/vindecodex/golang/blob/master/type_conversion/main.go)
+
 ***
 
 #### TODO
