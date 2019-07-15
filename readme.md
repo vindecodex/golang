@@ -45,6 +45,8 @@
 
 >[JSON](https://github.com/vindecodex/golang/blob/master/json/main.go)
 
+>[Slice and Map of Functions](https://github.com/vindecodex/golang/blob/master/slice_and_map_of_functions/main.go)
+
 ***
 
 #### TODO
