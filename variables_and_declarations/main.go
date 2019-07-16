@@ -54,4 +54,10 @@ func main() {
 	}
 
 	fmt.Println(mp)
+
+	/*
+		Use var to set things to zero
+		Pointers, Maps, Slices, Functions, Interfaces, channels can be nil
+	*/
+
 }
