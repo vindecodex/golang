@@ -47,6 +47,8 @@
 
 >[Slice and Map of Functions](https://github.com/vindecodex/golang/blob/master/slice_and_map_of_functions/main.go)
 
+>[Closure](https://github.com/vindecodex/golang/blob/master/closure/main.go)
+
 ***
 
 #### TODO
