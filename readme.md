@@ -49,6 +49,9 @@
 
 >[Closure](https://github.com/vindecodex/golang/blob/master/closure/main.go)
 
+>[anonymous_function](https://github.com/vindecodex/golang/blob/master/anonymous_function/main.go)
+
+
 ***
 
 #### TODO
