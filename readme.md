@@ -38,6 +38,7 @@
 >[Variadic](https://github.com/vindecodex/golang/blob/master/variadic/main.go)
 
 >[Error Handling](https://github.com/vindecodex/golang/blob/master/error_handling/main.go)
+>>[Panic With Recover](https://github.com/vindecodex/golang/blob/master/error_handling/error_handling_part1.go)
 
 >[Concurrency Go Routines](https://github.com/vindecodex/golang/blob/master/concurrency_go_routines/main.go)
 
