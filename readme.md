@@ -51,8 +51,9 @@
 
 >[Closure](https://github.com/vindecodex/golang/blob/master/closure/main.go)
 
->[anonymous_function](https://github.com/vindecodex/golang/blob/master/anonymous_function/main.go)
+>[Anonymous Function](https://github.com/vindecodex/golang/blob/master/anonymous_function/main.go)
 
+>[Functions as Values and Types](https://github.com/vindecodex/golang/blob/master/functions_as_values_and_types/main.go)
 
 ***
 
