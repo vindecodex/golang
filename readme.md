@@ -56,6 +56,8 @@
 
 >[Functions as Values and Types](https://github.com/vindecodex/golang/blob/master/functions_as_values_and_types/main.go)
 
+>[Imports]("https://github.com/vindecodex/golang/blob/master/imports/main.md")
+
 ***
 
 #### TODO
