@@ -45,3 +45,8 @@ func main() {
 }
 ```
 
+#### Go Mod Not Found ?
+
+Add this to `~/.profile`
+
+`export PATH="$GOPATH/bin:$PATH"` - this must be above `export GOPATH=$HOME/YOUR_LOCATION`
