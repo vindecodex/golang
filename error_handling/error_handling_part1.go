@@ -1,6 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"errors"
+	"fmt"
+)
 
 func insertName(name string) {
 	/* We created a defer with a recover inside so
@@ -10,10 +13,12 @@ func insertName(name string) {
 	defer func() {
 		if x := recover(); x != nil {
 			fmt.Println("this function was recovered")
+			fmt.Println(x) // x is the arguments passed inside panic()
 		}
 	}()
 	if name == "" {
-		panic("no name provided")
+		err := errors.New("no name provided")
+		panic(err.Error())
 	} else {
 		fmt.Println(name)
 	}
