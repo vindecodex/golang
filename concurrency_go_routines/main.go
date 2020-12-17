@@ -13,16 +13,16 @@ To achieve a routine you will just need to add go on the left side of a function
 
 func a() {
 	for i := 0; i < 100; i++ {
-		fmt.Println(i)
+		fmt.Println(i, "a")
 	}
 	time.Sleep(time.Second * 2) // we set a sleep of 2 * millisecond
 }
 
 func main() {
-	go a()                      // was set a sleep
-	time.Sleep(time.Second * 2) // was set a sleep
-	for i := 0; i < 100; i++ {  // a() and this will run parallel because we set their both time the same
-		fmt.Println(i)
+	go a() // was set a sleep
+	// time.Sleep(time.Second * 2) // was set a sleep
+	for i := 0; i < 100; i++ { // a() and this will run parallel because we set their both time the same
+		fmt.Println(i, "b")
 	}
 }
 
